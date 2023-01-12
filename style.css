@@ -200,7 +200,7 @@ main {
 }
 
 .second-fr > div > h2 {
-    font-size: 1.5em;
+    font-size: 1.8em;
     font-weight: 700;
 }
 
@@ -311,7 +311,7 @@ main {
 }
 
 .third > form > input {
-    width: 20em;
+    width: 100%;
     padding: 0.5em;
     border-radius: 3px;
     outline: none;
@@ -324,7 +324,7 @@ main {
 }
 
 .third > form > button {
-    width: 25em;
+    width: 100%;
     padding: 0.7em;
     font-size: 0.8em;
     background: hsl(224, 93%, 58%);
